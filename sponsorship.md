@@ -1,6 +1,7 @@
 # Sponsorship
 
-So, you want to sponsor the Cincinnati Web/Tech Drinkup? That's awesome!
+So, you want to sponsor the Cincinnati Web/Tech Drinkup? That's awesome! Read this stuff
+then send an email to chrism@gaslight.co or chrisridenour@gmail.com.
 
 ## Exposure
 
