@@ -11,6 +11,10 @@ is up to, too. We didn't want the formal user group structure, so we decided to 
 [Cincinnati Web/Tech Drinkup][drinkup]. Turns out, people liked the idea. Just over a year
 later there are 630+ members and more than 100 attendees each month.
 
+I was also really jealous of all those other cities where GitHub drinkups were happening, and
+I wanted to do something here. Fortunately, we've had one since then thanks to
+[@defunkt][defunkt] and [@elizabethn][elizabethn].
+
 My intent is to document the process, what we learned and to give you a way to start something
 in your own city.
 
@@ -91,3 +95,5 @@ Feel free to distribute under the [Creative Commons Attribution License][cc].
 [cridenour]: https://twitter.com/cridenour
 [drinkup]: http://www.meetup.com/Cincinnati-Web-Tech-Drinkup/
 [cc]: http://creativecommons.org/licenses/by/3.0/us/
+[defunkt]: https://github.com/defunkt
+[elizabethn]: https://github.com/ElizabethN
