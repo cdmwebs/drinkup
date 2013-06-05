@@ -4,8 +4,8 @@ Back in March of 2012, [Chris Ridenour][cridenour] and I had a quick [Twitter ex
 about bringing the local Python, Ruby and JavaScript user groups together. We're all fans of
 tech and keeping it in a few small silos felt strange. I'm interested in what the Python group
 is up to, too. We didn't want the formal user group structure, so we decided to start the 
-Cincinnati Web/Tech Drinkup. Turns out, people liked the idea. Just over a year later there 
-are 630+ members and more than 100 attendees each month.
+[Cincinnati Web/Tech Drinkup][drinkup]. Turns out, people liked the idea. Just over a year
+later there are 630+ members and more than 100 attendees each month.
 
 My intent is to document the process, what we learned and to give you a way to start something
 in your own city.
@@ -22,7 +22,8 @@ In my experience, there are a couple factors that will help significantly:
 
 #### Leadership
 
-> "A committee is a group that keeps minutes and loses hours." &mdash; Milton Berle
+> A committee is a group that keeps minutes and loses hours.
+  Milton Berle
 
 Leadership is important. If there's one thing I've taken away from this experience, it's that
 putting someone in charge is not a bad thing. Delegation is important too, but having a small
@@ -76,3 +77,4 @@ stop handing out tickets.
 
 [tweet]: https://twitter.com/cdmwebs/status/185829571394932736
 [cridenour]: https://twitter.com/cridenour
+[drinkup]: http://www.meetup.com/Cincinnati-Web-Tech-Drinkup/
