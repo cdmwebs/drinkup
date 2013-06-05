@@ -1,5 +1,7 @@
 # I can Drinkup and so can you
 
+![logo](http://photos3.meetupstatic.com/photos/event/d/c/2/a/highres_107936362.jpeg)
+
 Hey, you: want to sponsor? [Here's how it works](sponsorship.md).
 
 Back in March of 2012, [Chris Ridenour][cridenour] and I had a quick [Twitter exchange][tweet] 
@@ -76,6 +78,10 @@ of cake.
 I have a business account where the funds are deposited. I open the large tab and pay at the 
 end of the budget. I'm in communication regularly with the bar about the tab, so I know when to
 stop handing out tickets.
+
+## Credits
+
+* Our awesome logo is thanks to [@nikkipfahler](https://twitter.com/nikkipfahler).
 
 [tweet]: https://twitter.com/cdmwebs/status/185829571394932736
 [cridenour]: https://twitter.com/cridenour
