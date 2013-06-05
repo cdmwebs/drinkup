@@ -22,8 +22,7 @@ In my experience, there are a couple factors that will help significantly:
 
 #### Leadership
 
-> A committee is a group that keeps minutes and loses hours.
-  Milton Berle
+> "A committee is a group that keeps minutes and loses hours." &mdash; Milton Berle
 
 Leadership is important. If there's one thing I've taken away from this experience, it's that
 putting someone in charge is not a bad thing. Delegation is important too, but having a small
