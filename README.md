@@ -83,6 +83,11 @@ stop handing out tickets.
 
 * Our awesome logo is thanks to [@nikkipfahler](https://twitter.com/nikkipfahler).
 
+## License
+
+Feel free to distribute under the [Creative Commons Attribution License][cc].
+
 [tweet]: https://twitter.com/cdmwebs/status/185829571394932736
 [cridenour]: https://twitter.com/cridenour
 [drinkup]: http://www.meetup.com/Cincinnati-Web-Tech-Drinkup/
+[cc]: http://creativecommons.org/licenses/by/3.0/us/
