@@ -1,5 +1,7 @@
 # I can Drinkup and so can you
 
+Hey, you: want to sponsor? [Here's how it works](sponsorship.md).
+
 Back in March of 2012, [Chris Ridenour][cridenour] and I had a quick [Twitter exchange][tweet] 
 about bringing the local Python, Ruby and JavaScript user groups together. We're all fans of
 tech and keeping it in a few small silos felt strange. I'm interested in what the Python group
