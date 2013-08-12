@@ -10,7 +10,7 @@ then send an email to chrism@gaslight.co or chrisridenour@gmail.com.
 
 ## Exposure
 
-* We announce sponsors in the email to the group before the event. ~600 members currently.
+* We announce sponsors in the email to the group before the event. ~~600~~ 700 members currently.
 * Twitter/FB activity before the event mentioning your company.
 * We tell the attendees as they walk in who's sponsoring.
 * We point out the representatives who are in attendance and tell the attendees to say thanks.
