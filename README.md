@@ -72,7 +72,7 @@ Currently, we have two levels: First Drink ($500) and Venue ($300). As of now, w
 that has a projector. We put the sponsor logos and a short (140 character) message up on a 
 tweet wall. We also show hashtagged tweets from the event.
 
-Here's a list of [past sponsors][past_sponsors.md].
+Here's a list of [past sponsors](past_sponsors.md).
 
 ## Monthly Schedule
 
