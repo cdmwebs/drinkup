@@ -85,10 +85,6 @@ I have a business account where the funds are deposited. I open the large tab an
 end of the budget. I'm in communication regularly with the bar about the tab, so I know when to
 stop handing out tickets.
 
-## Credits
-
-* Our awesome logo is thanks to [@nikkipfahler](https://twitter.com/nikkipfahler).
-
 ## License
 
 Feel free to distribute under the [Creative Commons Attribution License][cc].
