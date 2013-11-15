@@ -5,8 +5,8 @@ of all these cool people?
 
 ![drinkup](http://photos3.meetupstatic.com/photos/event/a/5/a/c/highres_221142412.jpeg)
 
-That's awesome! Read this stuff
-then send an email to andy.jobe@gmail.com or chrism@gaslight.co or chrisridenour@gmail.com.
+That's awesome! Read this stuff and 
+then send an email to andy.jobe@gmail.com, chrism@gaslight.co or chrisridenour@gmail.com.
 
 ## Exposure
 
@@ -26,5 +26,5 @@ then send an email to andy.jobe@gmail.com or chrism@gaslight.co or chrisridenour
 
 # Sponsorship Levels
 
-* ~~Venue (Annex): $300~~  [Roadtrippers] (https://roadtrippers.com) has sponsored our venue for an entire year! *clap* *clap*
+* ~~Venue (Annex): $300~~ [Roadtrippers] (https://roadtrippers.com) has sponsored our venue for the entire year (2014)! *clap* *clap*
 * First Drink: $550

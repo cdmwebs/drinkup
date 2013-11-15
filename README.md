@@ -1,15 +1,15 @@
-# I can Drinkup and so can you
+# I can Drinkup, and so can you
 
-![logo](http://photos3.meetupstatic.com/photos/event/d/c/2/a/highres_107936362.jpeg)
+![logo](https://raw.github.com/qcmerge/drinkup/master/logo/qcmerge-drinkup.png)
 
 Hey, you: want to sponsor? [Here's how it works](sponsorship.md).
 
-Back in March of 2012, [Chris Ridenour][cridenour] and I had a quick [Twitter exchange][tweet] 
-about bringing the local Python, Ruby and JavaScript user groups together. We're all fans of
-tech and keeping it in a few small silos felt strange. I'm interested in what the Python group
-is up to, too. We didn't want the formal user group structure, so we decided to start the 
-[Cincinnati Web/Tech Drinkup][drinkup]. Turns out, people liked the idea. Just over a year
-later there are 630+ members and more than 100 attendees each month.
+Back in March of 2012, [Chris Ridenour][cridenour] and [Chris Moore][cdmwebs] had a quick 
+[Twitter exchange][tweet] about bringing the local Python, Ruby and JavaScript user groups 
+together. We're all fans of tech and keeping it in a few small silos felt strange. I'm interested 
+in what the Python group is up to, too. We didn't want the formal user group structure, so we 
+decided to start the [Cincinnati Web/Tech Drinkup][drinkup]. Turns out, people liked the idea. 
+Just over a year later there are 630+ members and more than 100 attendees each month.
 
 I was also really jealous of all those other cities where GitHub drinkups were happening, and
 I wanted to do something here. Fortunately, we've had one since then thanks to
