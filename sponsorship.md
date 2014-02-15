@@ -3,7 +3,7 @@
 So, you want to sponsor the QCMerge Drinkup and get your company in front
 of all these cool people?
 
-![](http://photos3.meetupstatic.com/photos/event/a/5/a/c/highres_221142412.jpeg)
+![japps](https://raw.github.com/qcmerge/drinkup/master/images/japps.jpeg)
 
 That's awesome! Read this stuff and 
 then send an email to andy.jobe@gmail.com, chrism@gaslight.co or chrisridenour@gmail.com.

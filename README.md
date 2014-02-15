@@ -1,6 +1,6 @@
 # I can Drinkup, and so can you
 
-![logo](https://raw.github.com/qcmerge/drinkup/master/logo/qcmerge-drinkup.png)
+![logo](https://raw.github.com/qcmerge/drinkup/master/images/qcmerge-drinkup.png)
 
 Hey, you: want to sponsor? [Here's how it works](sponsorship.md).
 
