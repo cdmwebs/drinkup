@@ -27,4 +27,4 @@ then send an email to andy.jobe@gmail.com, chrism@gaslight.co or chrisridenour@g
 # Sponsorship Levels
 
 * ~~Venue (Annex): $300~~ [Roadtrippers] (https://roadtrippers.com) has sponsored our venue for the entire year (2014)! *clap* *clap*
-* First Drink: $550
+* First Drink: $500
