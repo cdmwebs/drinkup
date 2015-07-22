@@ -91,6 +91,7 @@ Feel free to distribute under the [Creative Commons Attribution License][cc].
 
 [tweet]: https://twitter.com/cdmwebs/status/185829571394932736
 [cridenour]: https://twitter.com/cridenour
+[cdmwebs]: https://twitter.com/cdmwebs
 [drinkup]: http://www.meetup.com/Cincinnati-Web-Tech-Drinkup/
 [cc]: http://creativecommons.org/licenses/by/3.0/us/
 [defunkt]: https://github.com/defunkt
